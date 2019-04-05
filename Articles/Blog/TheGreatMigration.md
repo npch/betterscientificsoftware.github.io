@@ -1,17 +1,12 @@
-# Continuous Technology Refreshment (CTR)
-### An introduction to CTR using recent tech refresh experiences on VisIt.
+# An introduction to Continuous Technology Refreshment (CTR) using recent tech refresh experiences on VisIt
 
 **Hero Image:**
-<!--
-Reference for image rights, https://commons.wikimedia.org/wiki/File:Bicycle_evolution-fr.svg
--->
-
 - <img src="https://github.com/betterscientificsoftware/images/raw/master/Blog_0419_CTR_1176_432.png" />[Image source: NASA]
 
+#### Contributed by [Mark C. Miller](https://github.com/markcmiller86) and [Holly Auten](https://github.com/hauten)
 
 #### Publication date: April 11, 2019
 
-#### Contributed by [Mark C. Miller](https://github.com/markcmiller86) and [Holly Auten](https://github.com/hauten)
 
 The practice of
 [*Continuous Technology Refreshment (CTR)*](http://info.alphanumeric.com/blog/benefits-establishing-technology-refresh-cycle)
