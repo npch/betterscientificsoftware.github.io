@@ -6,7 +6,8 @@
 Reference for image rights, https://commons.wikimedia.org/wiki/File:Bicycle_evolution-fr.svg
 -->
 
-- <a href='https://raw.githubusercontent.com/betterscientificsoftware/images/master/Blog_TheGreatMigration_bikes.png'><img src='https://raw.githubusercontent.com/betterscientificsoftware/images/master/Blog_TheGreatMigration_bikes.png' /></a>
+- <img src="https://github.com/betterscientificsoftware/images/raw/master/Blog_0419_CTR_1176_432.png" />[Image source: NASA]
+
 
 #### Publication date: April 11, 2019
 
